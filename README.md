@@ -1,4 +1,4 @@
-Accumulation - Buyer aggressive (15 days) | seller (50 days)  -- takes place at bottom
+Accumulation - Buyer aggressive (15 days) | seller (50 days)  -- takes place at bottom  ----- 
 distribution - Seller aggressive (15 days)| Buyer (50 days)   --- takes place at top
 
 
