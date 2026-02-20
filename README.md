@@ -1,5 +1,5 @@
-Accumulation - Buyer aggressive (15 days) | seller (50 days)  -- takes place at bottom  ----- 
-distribution - Seller aggressive (15 days)| Buyer (50 days)   --- takes place at top
+Accumulation - Buyer aggressive (15 days) | seller (50 days)  -- takes place at bottom- droping period is faster than selling period  ----- 
+distribution - Seller aggressive (15 days)| Buyer (50 days)   --- takes place at top - Selling period is faster than buying period
 
 Buying fast and selling slow in accumulation, the price moves up and fast comes down in dustibution. 
 Accumulation is reversal od distribution and distribution is reversal of accumulation
