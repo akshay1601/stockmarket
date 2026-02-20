@@ -19,3 +19,7 @@ The price band determines the price range within which you can trade a stock for
 
 https://support.zerodha.com/category/trading-and-markets/trading-faqs/general/articles/what-does-circuit-limits-i-e-price-bands-mean
 https://groww.in/blog/what-is-upper-circuit-and-lower-circuit-in-share-market
+
+To avoid the increase in the price, to avoid upper and lower circuit, to avoid limelight from the news-  by this 3 reason the accumulation and distribution happens.
+
+
