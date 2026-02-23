@@ -22,4 +22,17 @@ https://groww.in/blog/what-is-upper-circuit-and-lower-circuit-in-share-market
 
 To avoid the increase in the price, to avoid upper and lower circuit, to avoid limelight from the news-  by this 3 reason the accumulation and distribution happens.
 
+Body candle:
+ Bulish
+ bearish
+ Neutral
+<img width="672" height="392" alt="image" src="https://github.com/user-attachments/assets/53735f54-691a-49de-95f8-186ea2ed9a89" />
+
+Doji Hammer Inv Hammer Dragonfly Doji Gravestone Doji are independents of colours.
+Spining top  and spining bottom : When two or more dojis formed it was resposible for reversal in spoining top and bottom.
+<img width="397" height="278" alt="image" src="https://github.com/user-attachments/assets/96d6147c-46fd-4461-a50e-8d48605f7655" />
+<img width="659" height="359" alt="image" src="https://github.com/user-attachments/assets/63c3de7d-014d-488a-b042-f8a882d77cc8" />
+No wik and tail found because of G and R Marubozu.
+
+
 
