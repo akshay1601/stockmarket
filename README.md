@@ -35,4 +35,15 @@ Spining top  and spining bottom : When two or more dojis formed it was resposibl
 No wik and tail found because of G and R Marubozu.
 
 
+Englufing, Harami, Percieng, twezzwer top and bottom: 
+<img width="671" height="420" alt="image" src="https://github.com/user-attachments/assets/c620e0b1-691f-4a34-a482-34e97dae8068" />
+<img width="626" height="429" alt="image" src="https://github.com/user-attachments/assets/0d7ff527-cef9-496f-9775-0ca41ffb26be" />
+<img width="659" height="371" alt="image" src="https://github.com/user-attachments/assets/8f9d420a-637f-40bb-a621-7001f27ed295" />
+<img width="573" height="358" alt="image" src="https://github.com/user-attachments/assets/ead3b78b-2417-47a0-b3e7-673c74109ed7" />
+
+
+Bullish to bearish:
+<img width="701" height="362" alt="image" src="https://github.com/user-attachments/assets/3c047112-1fd4-4ff9-92e9-57ef2cecbfe3" />
+bearish to bullish: 
+<img width="619" height="344" alt="image" src="https://github.com/user-attachments/assets/8fc72969-53bc-42da-8e93-7ff12da05582" />
 
